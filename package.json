@@ -27,7 +27,7 @@
     "postversion": "git push && git push --tags && rm -rf build"
   },
   "dependencies": {
-    "btoa": "^1.1.2",
+    "btoa": "~1.1.2",
     "es6-promise": "^3.0.2",
     "lodash.defaults": "^3.1.2",
     "lodash.indexby": "^3.1.1",
